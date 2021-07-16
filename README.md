@@ -5,7 +5,7 @@
 
 ## I'm a Spanish Software Developer!
 
-- 🌱 I am currently working with my team on a new [Fivem](https://github.com/citizenfx/fivem) project
+- 🌱 I am currently working with my team on a new [FiveM](https://github.com/citizenfx/fivem) project
 - 👯 I am looking to collaborate with other projects
 - 🥅 2021 Goals: Contribute to more open source projects
 - ⚡ Fun fact: I love reading, understanding and trying to improve code

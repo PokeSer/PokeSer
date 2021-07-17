@@ -16,7 +16,7 @@
     <a href="mailto:contact.pokeser@protonmail.com">
         <img alt="Email" src="https://img.shields.io/badge/-Email-000?&logo=protonmail" /></a>
     <a href="https://youtube.com/PokeSer" alt="Youtube">
-        <img src="https://img.shields.io/badge/-Youtube-000?&logo=youtube" /></a>
+        <img src="https://img.shields.io/badge/-Youtube-000?&logo=youtube&logoColor=red" /></a>
     <a href="https://twitter.com/PokeSerGG" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-000?&logo=twitter" /></a>
     <a href="https://instagram.com/PokeSerGG" alt="Instagram">

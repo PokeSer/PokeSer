@@ -23,11 +23,11 @@
 [<img align="left" alt="Lua" width="50px" src="https://img.shields.io/badge/-Lua-05122A?&logo=lua" />][devrepositories]
 [<img align="left" alt="JavaScript" width="50px" src="https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript" />][devrepositories]
 [<img align="left" alt="Node.js" width="50px" src="https://img.shields.io/badge/-Node.js-05122A?&logo=node.js" />][devrepositories]
-[<img align="left" alt="CSharp" width="50px" src="https://img.shields.io/badge/-csharp-05122A?&logo=csharp" />][devrepositories]
-[<img align="left" alt="MySQL" width="50px" src="https://img.shields.io/badge/-mysql-05122A?&logo=mysql" />][devrepositories]
-[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-python-05122A?&logo=python" />][devrepositories]
-[<img align="left" alt="Git" width="50px" src="https://img.shields.io/badge/-git-05122A?&logo=git" />][devrepositories]
-[<img align="left" alt="GitHub" width="50px" src="https://img.shields.io/badge/-github-05122A?&logo=github" />][devrepositories]
+[<img align="left" alt="CSharp" width="50px" src="https://img.shields.io/badge/-Csharp-05122A?&logo=csharp" />][devrepositories]
+[<img align="left" alt="MySQL" width="50px" src="https://img.shields.io/badge/-Mysql-05122A?&logo=mysql" />][devrepositories]
+[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-Python-05122A?&logo=python" />][devrepositories]
+[<img align="left" alt="Git" width="50px" src="https://img.shields.io/badge/-Git-05122A?&logo=git" />][devrepositories]
+[<img align="left" alt="GitHub" width="50px" src="https://img.shields.io/badge/-Github-05122A?&logo=github" />][devrepositories]
 
 <br />
 <br />

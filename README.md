@@ -37,14 +37,12 @@
 
 ### 📕 Stats
 
-<img align="left" alt="Poke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
-
-<br />
-<br />
-
-### 📕 Top Langs
-
-<img align="left" alt="Poke's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+<p align="center">
+<a href="https://github.com/PokeSer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PokeSer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PokeSer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories
 [twitter]: https://twitter.com/PokeSerGG

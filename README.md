@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<p id="connectMe" align="center">
+<p id="connectMe" align="left">
     <a href="mailto:contact.pokeser@protonmail.com">
         <img alt="Email" src="https://img.shields.io/badge/contact.pokeser-D14836?style=flat&logo=protonmail&logoColor=white" /></a>
     <a href="https://youtube.com/PokeSer" alt="Youtube">

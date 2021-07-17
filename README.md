@@ -14,13 +14,13 @@
 
 <p id="connectMe" align="left">
     <a href="mailto:contact.pokeser@protonmail.com">
-        <img height="137px" alt="Email" src="https://img.shields.io/badge/EMail-000?style=flat&logo=protonmail&logoColor=white" /></a>
+        <img alt="Email" src="https://img.shields.io/badge/EMail-000?style=flat&logo=protonmail&logoColor=white" /></a>
     <a href="https://youtube.com/PokeSer" alt="Youtube">
-        <img height="137px" src="https://img.shields.io/badge/-Youtube-000?style=flat-square&logo=youtube" /></a>
+        <img src="https://img.shields.io/badge/-Youtube-000?style=flat-square&logo=youtube" /></a>
     <a href="https://twitter.com/PokeSerGG" alt="Twitter">
-        <img height="137px" src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+        <img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
     <a href="https://instagram.com/PokeSerGG" alt="Instagram">
-        <img height="137px" src="https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ---
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=PokeSer&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=PokeSer&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories
 [twitter]: https://twitter.com/PokeSerGG

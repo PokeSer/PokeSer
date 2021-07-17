@@ -12,9 +12,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PokeSer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PokeSer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PokeSer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p id="connectMe" align="center">
+    <a href="mailto:contact.pokeser@protonmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/contact.pokeser-D14836?style=flat&logo=protonmail&logoColor=white" /></a>
+    <a href="https://youtube.com/PokeSer" alt="Youtube">
+        <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /></a>
+    <a href="https://twitter.com/PokeSerGG" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+    <a href="https://instagram.com/PokeSerGG" alt="Instagram">
+        <img src="https://img.shields.io/badge/-PokeSerGG-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 

@@ -41,12 +41,11 @@
 
 <br />
 <br />
-<br />
-<br />
 
 ---
 
 ### 📕 Top Langs
+
 <img align="left" alt="Poke's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer" />
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories

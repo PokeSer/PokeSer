@@ -42,8 +42,6 @@
 <br />
 <br />
 
----
-
 ### 📕 Top Langs
 
 <img align="left" alt="Poke's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />

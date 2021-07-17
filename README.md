@@ -38,11 +38,10 @@
 
 ---
 
-<details>
-    <summary><b>⚡ Github Stats</b></summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&locale=en&hide_border=true" alt="pokeser" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PokeSer&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="pokeserstat"/>
-</details>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=PokeSer&theme=dark&hide_border=true" width = 400>
+</p>
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories
 [twitter]: https://twitter.com/PokeSerGG

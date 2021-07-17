@@ -20,7 +20,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/-Visual_Studio_Code-05122A?&logo=visual-studio-code" />][devrepositories]
 [<img align="left" alt="Lua" width="50px" src="https://img.shields.io/badge/-Lua-05122A?&logo=lua" />][devrepositories]
 [<img align="left" alt="JavaScript" width="50px" src="https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript" />][devrepositories]
 [<img align="left" alt="Node.js" width="50px" src="https://img.shields.io/badge/-Node.js-05122A?&logo=node.js" />][devrepositories]

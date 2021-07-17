@@ -14,7 +14,7 @@
 
 <p id="connectMe" align="left">
     <a href="mailto:contact.pokeser@protonmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/contact.pokeser-000?style=flat&logo=protonmail&logoColor=white" /></a>
+        <img alt="Email" src="https://img.shields.io/badge/E-Mail-000?style=flat&logo=protonmail&logoColor=white" /></a>
     <a href="https://youtube.com/PokeSer" alt="Youtube">
         <img src="https://img.shields.io/badge/-Youtube-000?style=flat-square&logo=youtube" /></a>
     <a href="https://twitter.com/PokeSerGG" alt="Twitter">

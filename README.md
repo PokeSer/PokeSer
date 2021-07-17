@@ -40,7 +40,7 @@
 <img align="left" alt="Poke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
 ### 📕 Top Langs
-<img align="left" alt="Poke's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSerGG" />
+<img align="left" alt="Poke's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer" />
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories
 [twitter]: https://twitter.com/PokeSerGG

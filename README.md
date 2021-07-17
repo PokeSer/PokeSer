@@ -38,7 +38,8 @@
 
 ---
 
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=PokeSer&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&hide=php,html&hide_title=true&hide_border=false&layout=compact&line_height=21&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&locale=en&hide_border=true" alt="pokeser" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PokeSer&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="pokeserstat"/>
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories
 [twitter]: https://twitter.com/PokeSerGG

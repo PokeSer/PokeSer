@@ -18,16 +18,16 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-[<img align="left" alt="Lua" width="50px" src="https://img.shields.io/badge/-Lua-05122A?&logo=lua" />][devrepositories]
-[<img align="left" alt="JavaScript" width="50px" src="https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript" />][devrepositories]
-[<img align="left" alt="Node.js" width="50px" src="https://img.shields.io/badge/-Node.js-05122A?&logo=node.js" />][devrepositories]
-[<img align="left" alt="CSharp" width="50px" src="https://img.shields.io/badge/-Csharp-05122A?&logo=csharp" />][devrepositories]
-[<img align="left" alt="MySQL" width="50px" src="https://img.shields.io/badge/-Mysql-05122A?&logo=mysql" />][devrepositories]
-[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-Python-05122A?&logo=python" />][devrepositories]
-[<img align="left" alt="Git" width="50px" src="https://img.shields.io/badge/-Git-05122A?&logo=git" />][devrepositories]
-[<img align="left" alt="GitHub" width="50px" src="https://img.shields.io/badge/-Github-05122A?&logo=github" />][devrepositories]
+[<img align="left" alt="Lua" width="50px" src="https://img.shields.io/badge/-Lua-000?&logo=lua" />][devrepositories]
+[<img align="left" alt="JavaScript" width="50px" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />][devrepositories]
+[<img align="left" alt="Node.js" width="50px" src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />][devrepositories]
+[<img align="left" alt="CSharp" width="50px" src="https://img.shields.io/badge/-Csharp-000?&logo=csharp" />][devrepositories]
+[<img align="left" alt="MySQL" width="50px" src="https://img.shields.io/badge/-Mysql-000?&logo=mysql" />][devrepositories]
+[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-Python-000?&logo=python" />][devrepositories]
+[<img align="left" alt="Git" width="50px" src="https://img.shields.io/badge/-Git-000?&logo=git" />][devrepositories]
+[<img align="left" alt="GitHub" width="50px" src="https://img.shields.io/badge/-Github-000?&logo=github" />][devrepositories]
 
 <br />
 <br />

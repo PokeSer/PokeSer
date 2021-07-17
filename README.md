@@ -16,8 +16,6 @@
 [<img align="left" alt="PokeSer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PokeSer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
 ### Languages
 
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=LUA)
@@ -29,12 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
 
-<br />
-<br />
-
 ---
-
-### 📕 Stats
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=PokeSer&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
 

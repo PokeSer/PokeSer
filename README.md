@@ -14,13 +14,13 @@
 
 <p id="connectMe" align="left">
     <a href="mailto:contact.pokeser@protonmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/contact.pokeser-D14836?style=flat&logo=protonmail&logoColor=white" /></a>
+        <img alt="Email" src="https://img.shields.io/badge/contact.pokeser-000?style=flat&logo=protonmail&logoColor=white" /></a>
     <a href="https://youtube.com/PokeSer" alt="Youtube">
-        <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /></a>
+        <img src="https://img.shields.io/badge/-Youtube-000?style=flat-square&logo=youtube" /></a>
     <a href="https://twitter.com/PokeSerGG" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+        <img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
     <a href="https://instagram.com/PokeSerGG" alt="Instagram">
-        <img src="https://img.shields.io/badge/-PokeSerGG-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-PokeSerGG-000?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---

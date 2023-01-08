@@ -7,7 +7,7 @@
 
 - 🌱 I am currently learning typescript
 - 👯 I am looking to collaborate with other projects
-- 🥅 2022 Goals: Contribute to more open source projects
+- 🥅 2023 Goals: Work on my music bot
 - ⚡ Fun fact: I love reading, understanding and trying to improve code
 
 ### Connect with me:

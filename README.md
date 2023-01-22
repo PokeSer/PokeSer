@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergio - aka Poke 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PokeSerGG?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPokeSer&screen_name=PokeSerGG)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40PokeSerGG-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPokeSer&screen_name=PokeSerGG)
 [![Discord](https://img.shields.io/badge/Discord-Poke%234935-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/296733948619390980)
 
 ## I'm a Spanish Software Developer!

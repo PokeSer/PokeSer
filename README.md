@@ -5,9 +5,9 @@
 
 ## I'm a Spanish Software Developer!
 
-- 🌱 I am currently learning react
+- 🌱 I am currently learning css
 - 👯 I am looking to collaborate with other projects
-- 🥅 2023 Goals: Work on my music bot
+- 🥅 2024 Goals: Work on my music bot
 - ⚡ Fun fact: I love reading, understanding and trying to improve code
 
 ### Connect with me:

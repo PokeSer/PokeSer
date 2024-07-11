@@ -39,9 +39,9 @@
 ---
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PokeSer&show_icons=true&theme=bear&hide_border=true" width = 300 height = 130>
+  <img src = "https://github-readme-stats-zeta-five-32.vercel.app/api?username=PokeSer&show_icons=true&theme=bear&hide_border=true" width = 300 height = 130>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=PokeSer&theme=bear&hide_border=true" width = 300 height = 130>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PokeSer&layout=compact&theme=bear&hide_border=true" width = 250 height = 130>
+  <img src = "https://github-readme-stats-zeta-five-32.vercel.app/api/top-langs/?username=PokeSer&layout=compact&theme=bear&hide_border=true" width = 250 height = 130>
 </p>
 
 [devrepositories]: https://github.com/PokeSer?tab=repositories

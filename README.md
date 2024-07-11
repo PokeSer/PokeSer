@@ -30,6 +30,7 @@
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=LUA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=007396)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro&logoColor=C93C20)
 ![CSharp](https://img.shields.io/badge/-Csharp-000?&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

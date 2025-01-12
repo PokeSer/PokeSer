@@ -34,7 +34,7 @@
 
 - 🌟 **RustNation Server**: Advanced custom server solutions.
 - 🎭 **FiveM Scripts**: Immersive roleplay experiences with tailored scripts.
-- 📊 **Astro Dashboard**: Modern and responsive admin panels for web applications.
+- 📊 **Astro Dashboard**: Modern and responsive web apps.
 
 ---
 

@@ -32,9 +32,8 @@
 
 ## Projects 🔥
 
-- 🌟 **RustNation Server**: Advanced custom server solutions.
-- 🎭 **FiveM Scripts**: Immersive roleplay experiences with tailored scripts.
-- 📊 **Astro Dashboard**: Modern and responsive web apps.
+- 🔈 **[Klear](https://klear.pokeser.dev)**: Privacy-first AI audio tool running locally and securely within the browser.
+- 🚀 **[Personal Portfolio](https://pokeser.dev)**: A showcase of my technical journey, stack, and featured work.
 
 ---
 

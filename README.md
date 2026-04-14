@@ -9,7 +9,7 @@
 
 🎯 Passionate Software Developer from Spain, blending creativity and technology to craft impactful solutions.  
 💻 Always exploring new tools, frameworks, and techniques to stay ahead in the tech world.  
-🚀 **2025 Goals:** Find a position as a developer and continue contributing to open-source projects.
+🚀 **2026 Goals:** Find a position as a developer and continue contributing to open-source projects.
 
 ---
 
